@@ -3,7 +3,7 @@
 A flutter package which contains basics grouped buttons like radio buttons and checkboxes
 
 ## VERSION
-    [0.0.2]
+    [0.0.3]
 
 ## Table of content
    * [getting start](#getting-start)
@@ -19,7 +19,7 @@ To use this package, add `flutter_group_button^[version]` as a [dependency in yo
 #### Illustration
 ```yaml
 dependencies:
-  flutter_group_button: ^0.0.2
+  flutter_group_button: ^0.0.3
 ```
 
 For help getting started with Flutter, view our 
