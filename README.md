@@ -19,7 +19,7 @@ To use this package, add `flutter_group_button^[version]` as a [dependency in yo
 #### Illustration
 ```yaml
 dependencies:
-        flutter_group_button: ^0.0.2
+  flutter_group_button: ^0.0.2
 ```
 
 For help getting started with Flutter, view our 
@@ -58,7 +58,7 @@ samples, guidance on mobile development, and a full API reference.
     they are:
         groupItemsAlignment,
         children,
-        onSelectionChanged
+        onSelectionChanged,
 #### (@Optional) means that the argument is not required by the RadioGroup to work
 
  (@Required)
