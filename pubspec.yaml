@@ -1,6 +1,6 @@
 name: flutter_group_button
 description: A flutter package whitch contains grouped buttons like radio buttons
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/stMerlHin/flutter_group_button
 
 environment:
